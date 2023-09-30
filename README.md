@@ -1,3 +1,4 @@
+![logo](https://github.com/Shourya-Garg/Shourya-Garg/blob/main/GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm Shourya Garg</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
